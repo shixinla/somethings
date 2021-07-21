@@ -1,7 +1,5 @@
+"use strict";
 // import { createApp } from 'vue'
 // import App from './App.vue'
-
-import request from "@/utils/request";
-
-
+exports.__esModule = true;
 // createApp(App).mount('#app')
